@@ -7,7 +7,7 @@
 // prompt("Silahkan masukan nama anda : ")
 // prompt("Masukan alamat anda : ")
 
-// Reapet for 
+// looping for 
 // ==============================================================
 // for(i=0; i < 5; i++){
 //     alert("Hello my name is Soni");
