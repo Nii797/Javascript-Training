@@ -1,4 +1,4 @@
-alert("Hello world");
+alert("Hello world my name is soni");
 
 
 // var person = prompt("Please enter your name", "Soni hidayatulloh");
